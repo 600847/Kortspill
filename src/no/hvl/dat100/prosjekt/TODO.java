@@ -5,13 +5,13 @@ public class TODO {
 	public static String method() {
 		//haha
 		String methodName = Thread.currentThread().getStackTrace()[2].getMethodName();
-		
+		//jweifuhseiuf
 		return "Metoden " + methodName + " er ikke implementert";
 	} //halla gutta boys
 	
-	
+	//sdas
 	public static String constructor(String className) {
-				
+				//aha
 	   return "Konstruktøren for klassen " + className + " er ikke implementert";
 		
 	}
