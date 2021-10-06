@@ -11,7 +11,7 @@ public class TODO {
 	
 	//sdas
 	public static String constructor(String className) {
-				
+				//aha
 	   return "Konstruktøren for klassen " + className + " er ikke implementert";
 		
 	}
