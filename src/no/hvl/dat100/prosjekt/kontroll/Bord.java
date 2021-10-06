@@ -1,5 +1,5 @@
 package no.hvl.dat100.prosjekt.kontroll;
-
+//Heioghopp
 import no.hvl.dat100.prosjekt.modell.KortSamling;
 import no.hvl.dat100.prosjekt.modell.KortUtils;
 import no.hvl.dat100.prosjekt.TODO;
